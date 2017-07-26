@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Products</string>
+    <string name="nav_item_friends">About Us</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+    </string-array>
+    <string-array name="nav_drawer_images">
+        <item>@drawable/mobile</item>
+        <item>@drawable/info</item>
+    </string-array>
+    <string name="title_products">Products</string>
+    <string name="title_about">About Us</string>
+    <string name="title_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="nav_message">Sign in to access your wishlist, Orders and Recommendations.</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+</resources>
