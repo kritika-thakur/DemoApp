@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ideafoundation/Desktop/GroupListDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/ideafoundation/Desktop/GroupListDemo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ideafoundation/Desktop/GroupListDemo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ideafoundation/.android/build-cache/cccd0dfc5e2576556032b78c9187121c07ad793f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]
